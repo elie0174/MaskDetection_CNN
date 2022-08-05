@@ -1,0 +1,9 @@
+.DS_Store
+pyvenv.cfg
+bin
+.idea
+lib
+trained_models
+data.npy
+target.npy
+__pycache__/
